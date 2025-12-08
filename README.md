@@ -24,38 +24,30 @@
 
 ### 🧱 Roblox Stats
 <div align="center">
-    <img src="https://img.shields.io/badge/Place_Visits-500K+-white?style=for-the-badge&logo=roblox&logoColor=black&color=white"/>
-    <img src="https://img.shields.io/badge/Followers-1.2K+-black?style=for-the-badge&logo=roblox&logoColor=white"/>
-    
-    <br/>
-    
-    <img src="https://img.shields.io/badge/Join_Date-2019-red?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Experience-4%20Years-blue?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/RAP-50K+-green?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Place_Visits-500K+-white?style=for-the-badge&logo=roblox&logoColor=black&color=white" />
+  <img src="https://img.shields.io/badge/Followers-1.2K+-black?style=for-the-badge&logo=roblox&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/Join_Date-2019-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Experience-4%20Years-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAP-50K+-green?style=for-the-badge&logo=bitcoin&logoColor=white" />
 </div>
 
 <br />
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
   <img src="https://img.shields.io/badge/ROBLOX%20STUDIO-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/Rojo-AF1818?style=for-the-badge&logo=roblox&logoColor=white" />
-  
   <br/>
-
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-
   <br/>
-
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-
 </div>
