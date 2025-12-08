@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://twitter.com/PowScripts">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://camo.githubusercontent.com/10af549e19fc1349405d86efb9b80ad190b0603a207ade707bb09058abe8fd2e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d78266c6f676f436f6c6f723d7768697465" />
   </a>
   
   <br />
