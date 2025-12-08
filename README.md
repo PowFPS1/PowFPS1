@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F54D3F&center=true&vCenter=true&width=435&lines=Hi!+I'm+Pow;Roblox+Scripter;4+Years+Experience" alt="Typing SVG" />
   </a>
 
-  <p><i>"Powering Imagination."</i> 🟥</p>
+  <p><i>"Bringing Your Ideas To Life."</i> 🟥</p>
 
   <a href="https://github.com/PowFPS1">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
