@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F54D3F&center=true&vCenter=true&width=435&lines=Hi!+I'm+Pow;Roblox+Scripter;4+Years+Experience" alt="Typing SVG" />
   </a>
 
-  <p><i>"Bringing Your Ideas To Life."</i> ❗</p>
+  <p><i>"Powering Imagination."</i> 🟥</p>
 
   <a href="https://github.com/PowFPS1">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -14,6 +14,9 @@
   </a>
   <a href="https://www.roblox.com/users/3365639978/profile">
     <img src="https://img.shields.io/badge/Roblox-Profile-red?style=for-the-badge&logo=roblox&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/960348815695675404">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
 </div>
