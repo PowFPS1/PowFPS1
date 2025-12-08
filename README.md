@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://www.roblox.com/users/3365639978/profile">
-    <img src="https://img.shields.io/badge/Roblox-Profile-white?style=for-the-badge&logo=roblox&logoColor=white" />
+    <img src="https://img.shields.io/badge/Roblox-Profile-black?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
   <a href="https://discord.com/users/960348815695675404">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
