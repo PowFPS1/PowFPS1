@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi!+I'm+Pow;Roblox+Scripter;4+Years+Experience" alt="Typing SVG" />
   </a>
 
-  <p><i>"Bringing Your Ideas To Life."</i> 🟥</p>
+  <p><i>"Bringing Your Ideas To Life."</i>
 
   <a href="https://github.com/PowFPS1">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
