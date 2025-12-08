@@ -24,12 +24,11 @@
 
 ### 🧱 Roblox Stats
 <div align="center">
-  <img src="https://img.shields.io/badge/Place_Visits-500K+-white?style=for-the-badge&logo=roblox&logoColor=black&color=white" />
+  <img src="https://img.shields.io/badge/Place_Visits-170M+-white?style=for-the-badge&logo=roblox&logoColor=black&color=white" />
   <img src="https://img.shields.io/badge/Followers-1.2K+-black?style=for-the-badge&logo=roblox&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/Join_Date-2019-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Join_Date-2018-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Experience-4%20Years-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAP-50K+-green?style=for-the-badge&logo=bitcoin&logoColor=white" />
 </div>
 
 <br />
