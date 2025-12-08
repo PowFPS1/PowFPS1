@@ -25,7 +25,7 @@
 
 ---
 
-### 🧱 Roblox Stats
+### 📊 Roblox Stats
 <div align="center">
   <img src="https://img.shields.io/badge/Place_Visits-170M+-white?style=for-the-badge&logo=roblox&logoColor=black&color=white" />
   <img src="https://img.shields.io/badge/Followers-1.2K+-black?style=for-the-badge&logo=roblox&logoColor=white" />
@@ -38,7 +38,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 📜 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
