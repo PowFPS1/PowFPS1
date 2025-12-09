@@ -26,7 +26,8 @@
 <br />
 
 <div align="center">
-  <h3>🛠️ The Arsenal</h3>
+  
+  <h3>🛠️ Tech Stack </h3>
   <img src="https://skillicons.dev/icons?i=lua,roblox,html,css,js,ts,react,nextjs,firebase,python,vscode,github&perline=12" />
 </div>
 
