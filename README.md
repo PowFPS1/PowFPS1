@@ -33,8 +33,6 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PowFPS1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PowFPS1&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=6" height="160" alt="languages graph" />
 </div>
 
 <br />
