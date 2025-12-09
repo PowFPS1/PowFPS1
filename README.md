@@ -26,7 +26,7 @@
 <br />
 
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
+  <h3>🖥️ Tech Stack</h3>
   <img src="https://skillicons.dev/icons?i=lua,html,css,js,ts,nodejs,python,vscode,sublime,cpp,react,nextjs,firebase,github&perline=7" />
 </div>
 
