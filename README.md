@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0072ff&height=280&section=header&text=Pow&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Roblox%20Scripter%20//%20180M+%20Visits&descAlignY=55&descAlign=50" width="100%"/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Building+Systems;Fixing+Bugs;Bringing+Ideas+to+Life;4+Years+Experience" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=ffffff&center=true&vCenter=true&width=600&lines=Building+Systems;Fixing+Bugs;Bringing+Ideas+to+Life;5+Years+Experience" alt="Typing SVG" />
   </a>
 
   <p>
