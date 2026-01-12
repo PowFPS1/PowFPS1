@@ -90,6 +90,13 @@ export default function App() {
     // Schedule notification if enabled and time is set
     if (enableNotifications && notificationTime) {
       try {
+        // Validate time format (HH:mm)
+        const timeRegex = /^([0-1]?[0-9]|2[0-3]):([0-5][0-9])$/;
+        if (!timeRegex.test(notificationTime)) {
+          Alert.alert("Invalid Time", "Please enter time in HH:mm format (e.g., 14:30)");
+          return;
+        }
+
         const scheduledTime = dayjs(notificationTime, "HH:mm");
         if (scheduledTime.isValid()) {
           const now = dayjs();
@@ -134,22 +141,23 @@ export default function App() {
 
   const deleteTask = async (id) => {
     const task = tasks.find((t) => t.id === id);
-    
-    // Cancel notification if it exists
-    if (task?.notificationId) {
-      try {
-        await Notifications.cancelScheduledNotificationAsync(task.notificationId);
-      } catch (error) {
-        console.error("Failed to cancel notification:", error);
-      }
-    }
 
     Alert.alert("Delete Task", "Are you sure you want to delete this task?", [
       { text: "Cancel", style: "cancel" },
       {
         text: "Delete",
         style: "destructive",
-        onPress: () => setTasks(tasks.filter((task) => task.id !== id)),
+        onPress: async () => {
+          // Cancel notification if it exists
+          if (task?.notificationId) {
+            try {
+              await Notifications.cancelScheduledNotificationAsync(task.notificationId);
+            } catch (error) {
+              console.error("Failed to cancel notification:", error);
+            }
+          }
+          setTasks(tasks.filter((t) => t.id !== id));
+        },
       },
     ]);
   };
