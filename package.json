@@ -1,0 +1,25 @@
+{
+  "name": "task-manager-expo-snack",
+  "version": "1.0.0",
+  "description": "A task manager app for Expo Snack with notifications",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "~51.0.0",
+    "react": "18.2.0",
+    "react-native": "0.74.0",
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "expo-notifications": "~0.28.0",
+    "dayjs": "^1.11.10",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0"
+  },
+  "private": true
+}
